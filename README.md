@@ -12,4 +12,4 @@ Built-in Features
 - Fast ability to manual control a order with speed/cancel buttons in main window
 - Option to filter orders for specific bot instance regarding algo and/or market
 
-https://www.virustotal.com/gui/url/655ffb4b1227f105df7baef92a9c429b6a30b4f8ec5a86eefee59c88acae66e7/details
+https://www.virustotal.com/gui/url/655ffb4b1227f105df7baef92a9c429b6a30b4f8ec5a86eefee59c88acae66e7/detection
