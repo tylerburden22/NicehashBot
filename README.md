@@ -1,5 +1,7 @@
 # NicehashBot
 
+Based on the source of the official NiceHashBot
+
 Built-in Features
 
 - Manage pools (create/edit/delete)
