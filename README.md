@@ -1,0 +1,2 @@
+# NicehashBot
+NicehashBot - 
